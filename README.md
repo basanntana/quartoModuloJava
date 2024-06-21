@@ -7,6 +7,7 @@ alguns dos conteúdos vistos foram:
 * Formato JSON
 * Requisições com o Postman
 * Protocolo HTTP
+* Serialização/Desserialização
 * Bibliotecas e frameworks
 * Java Record
 * Conversão de JSON para Java
